@@ -1,6 +1,6 @@
 # ************************************************************
 # Resposta ao Desafio MySQL
-# Arquivo: resposta_desafio.sql
+# Arquivo: resposta_teste.sql
 #
 # Este arquivo contém a resposta para o desafio MySQL "test-mysql.sql".
 # A consulta retorna todos os clientes, a cor de suas casas, seus bairros e seus carros.

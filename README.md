@@ -9,7 +9,7 @@ Fazer uma query que retorne o relatório abaixo:
 
 ## Reposta ao teste
 
-- O arquivo [resposta_desafio.sql](https://github.com/julianachavespalm/test-mysql/blob/master/resposta_desafio.sql) contém a consulta SQL desenvolvida como resposta ao desafio. A consulta utiliza JOINs para unir as informações das tabelas cliente, casa, bairro e carro.
+- O arquivo [resposta_teste.sql](https://github.com/julianachavespalm/test-mysql/blob/master/resposta_teste.sql) contém a consulta SQL desenvolvida como resposta ao desafio. A consulta utiliza JOINs para unir as informações das tabelas cliente, casa, bairro e carro.
 
 - A consulta fornecerá os resultados conforme especificado no desafio.
 

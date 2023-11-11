@@ -1,4 +1,4 @@
-# Teste MySQL para Desenvolvedor
+# Teste MySQL para Desenvolvedor: resposta de Juliana Chaves Palm
 
 ## Objetivo:
 Fazer uma query que retorne o relatório abaixo:
@@ -6,3 +6,7 @@ Fazer uma query que retorne o relatório abaixo:
 
 ## Requisitos:
 - Utilizar o dump desse projeto;
+
+## Reposta ao teste
+
+- O arquivo **resposta_desafio.sql** contém a consulta SQL desenvolvida como resposta ao desafio. A consulta utiliza JOINs para unir as informações das tabelas cliente, casa, bairro e carro.
